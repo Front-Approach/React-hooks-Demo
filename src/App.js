@@ -12,6 +12,7 @@ export default class App extends React.Component {
             type: null
         }
     }
+    
 
     componentDidMount() {
         this.setState({
